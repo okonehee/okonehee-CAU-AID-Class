@@ -59,4 +59,4 @@ Ensure you have the following installed:
 This project is licensed under the MIT License.
 
 ### Author
-Developed by cocomilk32@gmail.com
+Developed by [cocomilk32@gmail.com](https://github.com/okonehee/okonehee-CAU-AID-Class.git)
